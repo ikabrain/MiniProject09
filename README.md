@@ -6,7 +6,10 @@
 > **Student Roll No.**: 102303754
 
 ## 🔎 Problem Statement
-Select any dataset from [UCI Dataset Repository](https://archive.ics.uci.edu/datasets) and perform Exploratory Data Analysis
+Select any dataset from [UCI Dataset Repository](https://archive.ics.uci.edu/datasets) and perform Exploratory Data Analysis.
+
+From the [Abalone dataset on UCI](https://archive.ics.uci.edu/dataset/1/abalone):
+> _[This repository is for] **Predicting the age of abalone from physical measurements**. The age of abalone is determined by cutting the shell through the cone, staining it, and counting the number of rings through a microscope -- a boring and time-consuming task.  Other measurements, which are easier to obtain, are used to predict the age.  Further information, such as weather patterns and location (hence food availability) may be required to solve the problem._
 
 ## 🔬 Methodology
 ```mermaid
