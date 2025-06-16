@@ -13,8 +13,8 @@ Select any dataset from [UCI Dataset Repository](https://archive.ics.uci.edu/dat
 flowchart LR
 A[/Data Reading/] --> B[Data Preprocessing and Cleaning]
 B --> C[Analysing relations through Visualisations]
-C -.-> D[Exploring hypothesis further]
-D -.-> P[/Conclusion/]
+C --> D[Exploring hypothesis further]
+D --> E[/Conclusion/]
 ```
 
 ## 🚀 How to Run Notebook
